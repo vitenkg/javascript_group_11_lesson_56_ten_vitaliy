@@ -4,7 +4,12 @@
     box-sizing: border-box;
 }
 
+.Burger {
+    display: inline-block;
+}
+
 ul {
+    display: inline-block;
     list-style: none;
     padding: 0;
 }
